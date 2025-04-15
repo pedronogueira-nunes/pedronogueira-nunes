@@ -1,4 +1,5 @@
-## Hi there 👋
+Olá, meu nome é Pedro Henrique!
+Sou estudante de BTI na UFERSA.
 
 <!--
 **pedronogueira-nunes/pedronogueira-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
